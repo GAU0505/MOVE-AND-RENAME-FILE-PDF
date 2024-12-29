@@ -67,11 +67,11 @@ class MainApp:
 
     def run_rename(self):
         """Khởi chạy chức năng Rename"""
-        self.run_external_script("RENAME R2.py")
+        self.run_external_script("RENAME.py")
 
     def run_move(self):
         """Khởi chạy chức năng Move"""
-        self.run_external_script("MOVE R5.py")
+        self.run_external_script("MOVE.py")
 
     def run_external_script(self, script_name):
         """Thực thi file script bên ngoài"""
