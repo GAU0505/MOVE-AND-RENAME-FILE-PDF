@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/pdf_management_app.egg-info/PKG-INFO
+src/pdf_management_app.egg-info/SOURCES.txt
+src/pdf_management_app.egg-info/dependency_links.txt
+src/pdf_management_app.egg-info/entry_points.txt
+src/pdf_management_app.egg-info/top_level.txt

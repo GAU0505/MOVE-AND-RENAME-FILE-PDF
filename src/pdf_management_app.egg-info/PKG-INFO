@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: pdf-management-app
+Version: 0.1
+Summary: hỗ trợ công việc
+Home-page: https://github.com/GAU0505/MOVE-AND-RENAME-FILE-PDF
+Author: Hồ Xuân Ánh
+Author-email: hoxuananh134@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# PDF Management App
+
+## Giới thiệu
+
+Ứng dụng quản lý file PDF giúp bạn đổi tên và di chuyển các file PDF một cách dễ dàng.
+
+## Cài đặt
+
+Để cài đặt ứng dụng, bạn cần có Python 3.6 trở lên. Thực hiện các bước sau:
+
+1. Clone repository:
+    ```bash
+    git clone https://github.com/GAU0505/MOVE-AND-RENAME-FILE-PDF.git
+    cd MOVE-AND-RENAME-FILE-PDF
+    ```
+
+2. Cài đặt các thư viện cần thiết:
+    ```bash
+    pip install .
+    ```
+
+### Các thư viện cần thiết
+
+- `tkinter`
+
+## Sử dụng
+
+Để chạy ứng dụng, sử dụng lệnh sau:
+```bash
+pdf-management-app

@@ -1,0 +1,2 @@
+[console_scripts]
+pdf-management-app = main:MainApp

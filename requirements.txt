@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 numpy>=1.21.0
 requests>=2.26.0
+=======
+echo "tkinter" > requirements.txt
+>>>>>>> 1a99ef2 (Mô tả ngắn gọn về thay đổi)
